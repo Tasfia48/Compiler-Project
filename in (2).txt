@@ -1,0 +1,66 @@
+INCLUDE.head
+MATH.head
+
+$!sample input
+$$ basic operations
+
+
+
+
+main func LeftFirstB RightFirstB
+LeftSecondB
+
+int I Com D Com E SemiC
+
+int U SemiC
+
+I Equal 10SemiC
+
+D Equal I SemiC
+
+I ++ SemiC
+
+
+
+int A Com B Com C Com C SemiC
+A Equal 2SemiC
+B Equal 8SemiC
+C Equal 9SemiC
+E Equal 19SemiC
+U Equal 59SemiC
+
+D Equal I Sum A SemiC
+
+
+
+ForLoop  LeftFirstB I Equal 0 SemiC I LessThan 7 SemiC I ++ RightFirstB
+LeftSecondB I Sum 7 RightSecondFirstB SemiC
+
+
+SWITCHCon LeftFirstB 3 RightFirstB
+
+CASECon LeftFirstB 1 RightFirstB : LeftFirstB 1 Sum 9 RightFirstB SemiC
+
+CASECon LeftFirstB 2 RightFirstB : LeftFirstB 4 Div 2 RightFirstB SemiC
+   
+CASECon LeftFirstB 3 RightFirstB : LeftFirstB 3 Mul 9 RightFirstB SemiC
+
+
+
+
+IFCon LeftFirstB30 LessThan 10RightFirstB
+  2 Power 0SemiC
+ ELCon 
+  2 Mul 3SemiC
+
+
+
+
+IFCon LeftFirstB30 GreaterThan 10RightFirstB
+  2 Power 4SemiC
+ ELCon 
+  2 Mul 3SemiC
+
+RightSecondFirstB
+
+
