@@ -97,9 +97,9 @@
 %%
 
 main(){
-	yyin = freopen("in.txt","r",stdin);
+	yyin = freopen("input.txt","r",stdin);
 
-	yyout = freopen("out.txt","w",stdout);
+	yyout = freopen("output.txt","w",stdout);
 	
 	yyparse();
 }
